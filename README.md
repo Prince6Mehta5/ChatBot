@@ -17,6 +17,7 @@ Steps:
 2. Extract the file.
 3. Right Click on that file and choose the option "Open with code"
 4. Run the below mentioned commands on the terminal:
+
    For frontend:
       1. _cd .\frontend\_
       2. _npm run dev_
