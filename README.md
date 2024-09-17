@@ -20,6 +20,7 @@ Steps:
    For frontend:
       1. _cd .\frontend\_
       2. _npm run dev_
+   
    For backend:
       1. _cd .\backend\_
       2. _npm run start_
