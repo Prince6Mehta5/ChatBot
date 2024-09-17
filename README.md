@@ -19,12 +19,12 @@ Steps:
 4. Run the below mentioned commands on the terminal:
 
    For frontend:
-      1. _cd .\frontend\_
+      1. cd .\frontend\
       2. _npm run dev_
    
    For backend:
-      1. _cd .\backend\_
-      2. _npm run start_
+      1. cd .\backend\
+      2. npm run start
 6. You will see a link like this "(http://localhost:5173/)" (demo link)
 7. Click on that & you'll have a running Website of this ChatBot Application project.
 
